@@ -10,6 +10,3 @@ while n3 < 4000000 :
     n2=n3+n1
     n3=n1+n2
 print(4*count)
-
-import time
-time.sleep(5)
